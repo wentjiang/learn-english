@@ -1,0 +1,6 @@
+- Rest well 
+- take care
+- Hope you feel better soon.
+- get better!
+- Take it easy 
+- Rest up and take it easy.
