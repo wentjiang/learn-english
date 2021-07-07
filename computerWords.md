@@ -1,0 +1,8 @@
+- latency time 延迟时间
+- throughput 吞吐量
+- tolerance 容忍
+- semantics [语] 语义学；语义论
+- detection 侦查,发现
+- fraud detection 欺骗侦查
+- continuously 连续不断的   stream
+- regular interval      batch job
