@@ -6,3 +6,4 @@
 - fraud detection 欺骗侦查
 - continuously 连续不断的   stream
 - regular interval      batch job
+- stuck 卡住不动
