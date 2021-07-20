@@ -1,0 +1,4 @@
+- strategy
+- version
+- specified
+- version
