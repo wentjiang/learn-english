@@ -1,0 +1,7 @@
+- rate
+- We want to know the match rate to evaluate the match quality.
+- initiative 主动权
+- accuracy
+- period
+- Accurate 
+- locality 所在地
