@@ -1,0 +1,58 @@
+- bulb 电灯泡
+- resilient 弹性的
+- resiliency 弹性
+- homogeneous 同类的
+- heterogeneous 不同类的
+- corporate 公司的
+- facility 设备
+- decommission 删除
+- authentication 证明；鉴定；证实
+- authorization 授权
+- provision 预备
+- in terms 毫不犹豫的
+- in terms of 依据,按照,在某方面
+- end up 结束
+- workaround 应对办法
+- failover 故障切换
+- reliable 可靠的
+- redundant 冗余的
+- consistency 一致性
+- subsequent 随后的,接着的
+- infrequent 罕见的
+- Glacier 冰川
+- durability 耐用性
+- retrieval 找回
+- vaults 地窖
+- archive 归档
+- expedit 快速的
+- Thumbnail 缩略图
+- prior 先前的
+- throttled 节流的
+- acceleration 加速
+- trail 痕迹
+- transit 传输
+- mandatory 强制的
+- finer grain 细粒度的
+- infinite 无限的
+- cardinality 基数
+- candidate 候选人
+- provisioned 预分配的
+- formula 方案
+- throttling 节流调节,使窒息
+- retrieving 取回
+- compliance 合规性
+- auditing 审核
+- surge occurs 浪涌
+- flexibility 弹性
+- Sensor 传感器
+- potential 潜在的
+- presist 持久化,存储
+- ad-hoc 临时的
+- retail 零售
+- respective 分别的
+- compliance 服从
+- restrict 限制
+- dense 稠密的
+- sluggish 吃顿的
+- compliance requirement 合规要求
+- the logs must also contain each query run against the database 日志还必须包含针对数据库运行的每个查询
