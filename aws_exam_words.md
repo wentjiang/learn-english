@@ -56,3 +56,15 @@
 - sluggish 吃顿的
 - compliance requirement 合规要求
 - the logs must also contain each query run against the database 日志还必须包含针对数据库运行的每个查询
+- malfunctioning 出故障了
+- anomaly 异常的
+- optimal 最佳的
+- dedicated 专用的
+- residing 属于
+- perform 执行
+- durable 持久的
+- overhead 费用
+- significant 显著的
+- throttling 使节流
+- automation 自动化
+- hence 因此
