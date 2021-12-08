@@ -68,3 +68,49 @@
 - throttling 使节流
 - automation 自动化
 - hence 因此
+
+- prescribed 规定的
+- exceed 超出
+- reservation 预留
+- regulated 被约束的
+- gather 召集
+- campaign 活动,战斗
+- appropriate 挪用
+- rapidly 快速的
+- associated 联合的
+- sufficient 充足的
+- interleaved 交替
+- regulatory 管理的
+- attached 附属的
+- originating 起源
+- regression model 回归模型
+- provisioned 预分配
+- manipulation 操作处理
+- prior 提前
+- exceeded 超出,溢出
+- interfere 影响,干扰
+- territory 领地
+- against 以…为背景  run against a table's data
+- anomalies 异常的
+- occasional 偶尔的
+- roll-up data 汇总数据
+- incremental 增量的
+- fraudulent 诈骗
+- premises 提前的
+- retailer 零售商
+- inventory 目录
+- derive 获取
+- intuitive 易用的
+- geospatial color-coded chart
+- on-premises 自建的,企业预制
+- consists 由…组成
+- enforce 强制
+- constraint 限制,约束
+- manufacturing company 制造公司
+- granular-level 颗粒级的
+- data assets 数据资产
+- persist 持久化
+- intraday 当天的
+- varies 使不同
+- examine 检查
+- vehicular 车辆de 
