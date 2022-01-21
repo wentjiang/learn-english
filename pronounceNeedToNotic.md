@@ -3,3 +3,6 @@
 - specified
 - version
 - schema
+- accelerate
+- cache
+- previous
